@@ -1,0 +1,5 @@
+gTTS
+pygame
+deep-translator
+pytesseract
+Pillow
